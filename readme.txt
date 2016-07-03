@@ -1,0 +1,1 @@
+Just a test folder to check out how git works
